@@ -14,7 +14,7 @@ Python implementation and a more thorough pseudocode analysis: [reflection_remov
 
 ## Requirements
 
-- Python 3.7
+- Python 3.7.
 - Numpy
 - OpenCV-Python
 - Matplotlib
