@@ -8,7 +8,7 @@ Code for CVPR 2014 paper: [Single Image Layer Separation using Relative Smoothne
 
 Digital Image Processing course project focused on understanding the theory behind an image processing algorithm from a research paper, its documentation and implementation in code. 
 
-Math behind the algorithm and pseudocode are explained in [documentacion.pdf](https://github.com/acampillos/Single-Image-Reflection-Removal/blob/main/documentacion%20.pdf)
+Math and pseudocode is in [documentacion.pdf](https://github.com/acampillos/Single-Image-Reflection-Removal/blob/main/documentacion%20.pdf)
 
 Python implementation and a more thorough pseudocode analysis: [reflection_removal.ipynb](https://github.com/acampillos/Single-Image-Reflection-Removal/blob/main/reflection_removal.ipynb)
 
